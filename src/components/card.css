@@ -1,0 +1,25 @@
+.card-body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    max-width: 350px;
+    background-color: peachpuff;
+    border-radius: 15px;
+
+}
+
+.card-img { 
+    max-width: 250px;
+}
+
+.card-name {
+    font-size: 10vh;
+}
+
+.card-transcription {
+    font-size: 5vh;
+}
+
+.card-translation {
+    font-size: 7vh;
+}
